@@ -1,0 +1,3 @@
+ExpenseID,AuditStatus,FraudFlag,Reason
+EXP001,Rejected,Yes,Duplicate Receipt
+EXP002,Approved,No,Valid

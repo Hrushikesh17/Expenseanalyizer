@@ -1,0 +1,12 @@
+{
+  "ClaimID": "CLM0019",
+  "EmployeeID": "EMP019",
+  "EmployeeName": "Employee 19",
+  "Department": "Sales",
+  "Vendor": "Office Depot",
+  "Category": "Taxi",
+  "Amount": 5000,
+  "ExpenseDate": "2026-06-19",
+  "BusinessPurpose": "Client meeting",
+  "ReceiptFile": ""
+}

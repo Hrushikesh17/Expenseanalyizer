@@ -1,0 +1,12 @@
+{
+  "ClaimID": "CLM0020",
+  "EmployeeID": "EMP020",
+  "EmployeeName": "Employee 20",
+  "Department": "Sales",
+  "Vendor": "Green Bowl Cafe",
+  "Category": "Flight",
+  "Amount": 4890,
+  "ExpenseDate": "2026-06-20",
+  "BusinessPurpose": "Client meeting",
+  "ReceiptFile": "receipt_20.png"
+}

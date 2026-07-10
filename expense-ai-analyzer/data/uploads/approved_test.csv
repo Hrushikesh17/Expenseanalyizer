@@ -1,0 +1,6 @@
+employee_id,employee,department,vendor,amount,date,category,business_purpose,receipt,source_system,historical_outcome,description
+E-1001,Asha Rao,Consulting,Metro Cab,842.35,2026-07-01,Travel,Client office travel for project review,receipt-metro-cab-1001.pdf,Synthetic ERP export,Previously approved,Taxi fare with receipt attached
+E-1002,Ravi Menon,Finance,OfficeKart,1299.50,2026-07-02,Supplies,Keyboard and mouse replacement for finance workstation,receipt-officekart-1002.pdf,Synthetic accounting platform,Previously approved,Office supplies purchase with receipt attached
+E-1003,Neha Sharma,Sales,CloudMeet,2145.75,2026-07-03,Software,Monthly video meeting subscription for sales calls,receipt-cloudmeet-1003.pdf,Synthetic card feed,Previously approved,Subscription payment with invoice attached
+E-1004,Imran Khan,Operations,QuickPrint,736.25,2026-07-06,Printing,Printed training material for operations workshop,receipt-quickprint-1004.pdf,Synthetic ERP export,Previously approved,Printing expense with receipt attached
+E-1005,Maya Iyer,HR,FreshBites,1568.90,2026-07-07,Meals,Team lunch for onboarding session,receipt-freshbites-1005.pdf,Synthetic card feed,Previously approved,Onboarding meal expense with receipt attached

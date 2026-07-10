@@ -1,0 +1,7 @@
+ClaimID,EmployeeID,Employee,Vendor,Amount,Date,Category,BusinessPurpose,Receipt,ExpectedDecision
+CLM001,EMP001,Aarav Mehta,ABC Hotel,4800,2026-07-01,Hotel,Client meeting,receipt_ok.png,ACCEPTED
+CLM002,EMP002,Priya Singh,Metro Taxi,780,2026-07-02,Taxi,Airport,receipt_ok2.png,ACCEPTED
+CLM003,EMP003,Rohan Das,Cafe Hub,1450,2026-07-05,Meal,Project,receipt_ok3.png,ACCEPTED
+CLM004,EMP004,Neha Roy,Luxury Stay,9000,2026-07-03,Hotel,Conference,receipt_missing.png,REJECTED
+CLM005,EMP005,Vikas Jain,ABC Hotel,4800,2026-07-01,Hotel,Duplicate,receipt_dup.png,REJECTED
+CLM006,EMP006,Sara Ali,Office Mart,0,bad-date,Supplies,,receipt_bad.png,REJECTED

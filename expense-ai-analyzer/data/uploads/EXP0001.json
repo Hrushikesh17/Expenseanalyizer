@@ -1,0 +1,12 @@
+{
+  "company": "Abacus IT Solutions",
+  "expense": [
+    "EXP0001",
+    "EMP001",
+    "Abacus Employee 1",
+    "IT",
+    "Business expense claim",
+    3200,
+    "TRUE"
+  ]
+}

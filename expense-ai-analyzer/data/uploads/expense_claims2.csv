@@ -1,0 +1,7 @@
+ExpenseID,EmployeeID,EmployeeName,Department,ClaimDescription,ExpenseType,Vendor,Date,Amount,Currency,Receipt,ExpectedLabel
+EXP1001,EMP201,Ananya Rao,Sales,Client meeting lunch at ABC Restaurant with 3 clients. Original GST receipt attached.,Meal,ABC Restaurant,2026-06-12,1450,INR,receipt_true1.png,TRUE
+EXP1002,EMP202,Rohit Sen,Consulting,Hotel stay during approved client visit.,Hotel,City Grand Hotel,2026-06-14,4800,INR,receipt_true2.png,TRUE
+EXP1003,EMP203,Vikram Das,IT,Taxi from airport to office after production incident.,Taxi,Uber,2026-06-15,780,INR,receipt_true3.png,TRUE
+EXP2001,EMP204,Neha Gupta,Marketing,Hotel claim exceeds policy limit and no approval attached.,Hotel,Luxury Palace,2026-06-15,8900,INR,receipt_false1.png,FALSE
+EXP2002,EMP205,Aman Roy,Sales,Duplicate restaurant receipt submitted from previous month.,Meal,ABC Restaurant,2026-06-16,1450,INR,receipt_false2.png,FALSE
+EXP2003,EMP206,Pooja Nair,HR,Receipt image amount appears altered from 980 to 3980.,Office Supplies,Stationery Hub,2026-06-17,3980,INR,receipt_false3.png,FALSE

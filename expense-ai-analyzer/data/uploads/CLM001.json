@@ -1,0 +1,12 @@
+{
+  "ClaimID": "CLM001",
+  "EmployeeID": "EMP001",
+  "Employee": "Aarav Mehta",
+  "Vendor": "ABC Hotel",
+  "Amount": 4800,
+  "Date": "2026-07-01",
+  "Category": "Hotel",
+  "BusinessPurpose": "Client meeting",
+  "Receipt": "receipt_ok.png",
+  "ExpectedDecision": "ACCEPTED"
+}

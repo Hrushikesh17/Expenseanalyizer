@@ -1,0 +1,21 @@
+ClaimID,EmployeeID,EmployeeName,Department,Vendor,Category,Amount,ExpenseDate,BusinessPurpose,ReceiptFile
+CLM0001,EMP001,Employee 1,Sales,Metro Cabs,Taxi,785,2026-06-01,Client meeting,receipt_01.png
+CLM0002,EMP002,Employee 2,Sales,SkyJet Airlines,Flight,9000,2026-06-02,Client meeting,receipt_02.png
+CLM0003,EMP003,Employee 3,Sales,Office Depot,Office Supplies,1499,2026-06-03,Client meeting,receipt_03.png
+CLM0004,EMP004,Employee 4,Sales,Green Bowl Cafe,Meal,980,2026-06-04,Client meeting,receipt_04.png
+CLM0005,EMP005,Employee 5,Sales,FuelOne,Fuel,980,2026-06-05,Client meeting,receipt_05.png
+CLM0006,EMP006,Employee 6,Sales,TechMart,Hotel,2350,2026-06-06,Client meeting,receipt_06.png
+CLM0007,EMP007,Employee 7,Sales,City Inn,Taxi,1499,2026-06-07,Client meeting,receipt_07.png
+CLM0008,EMP008,Employee 8,Sales,Blue Orchid Hotel,Flight,1499,2026-06-08,Client meeting,receipt_08.png
+CLM0009,EMP009,Employee 9,Sales,Metro Cabs,Office Supplies,1245,2026-06-09,Client meeting,receipt_09.png
+CLM0010,EMP010,Employee 10,Sales,SkyJet Airlines,Meal,1245,2026-06-10,Client meeting,receipt_10.png
+CLM0011,EMP011,Employee 11,Sales,Office Depot,Fuel,5100,2026-06-11,Client meeting,receipt_11.png
+CLM0012,EMP012,Employee 12,Sales,Green Bowl Cafe,Hotel,2350,2026-06-12,Client meeting,receipt_12.png
+CLM0013,EMP013,Employee 13,Sales,FuelOne,Taxi,5100,2026-06-13,Client meeting,
+CLM0014,EMP014,Employee 14,Sales,,Flight,5100,2026-06-14,Client meeting,receipt_14.png
+CLM0015,EMP015,Employee 15,Sales,City Inn,Office Supplies,1245,32-06-2026,Client meeting,receipt_15.png
+CLM0016,EMP016,Employee 16,Sales,Blue Orchid Hotel,Meal,0,2026-06-16,Client meeting,receipt_16.png
+CLM0017,EMP017,Employee 17,Sales,Metro Cabs,Fuel,1499,2026-06-17,,receipt_17.png
+CLM0018,EMP018,Employee 18,Sales,SkyJet Airlines,Hotel,2350,2026-06-18,Client meeting,receipt_05.png
+CLM0019,EMP019,Employee 19,Sales,Office Depot,Taxi,5000,2026-06-19,Client meeting,
+CLM0020,EMP020,Employee 20,Sales,Green Bowl Cafe,Flight,4890,2026-06-20,Client meeting,receipt_20.png
